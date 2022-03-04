@@ -1,0 +1,124 @@
+{
+  "defaultLocalization": "en-US",
+  "defaultAnonymousWebview": {
+    "enableHistoryBack": true,
+    "internalUrls": [
+      ".*"
+    ],
+    "externalUrls": [],
+    "serverCertificateTrustStore": [
+      "ssms-cluster.kobil.com.pem"
+    ],
+    "clientAuthentication": null
+  },
+  "defaultPersonalizedWebview": {
+    "enableHistoryBack": true,
+    "internalUrls": [
+      ".*"
+    ],
+    "externalUrls": [],
+    "serverCertificateTrustStore": [
+      "ssms-cluster.kobil.com.pem"
+    ],
+    "clientAuthentication": null
+  },
+  "userCredentialsPath": {
+    "windows": "%LOCALAPPDATA%/KOBIL/TSE02/%ECO_ID%/%APP_NAME%",
+    "macOS": "%HOME%/Library/Application Support/KOBIL/TSE02/%ECO_ID%/%APP_NAME%",
+    "linux": "%HOME%/KOBIL/TSE02/%ECO_ID%/%APP_NAME%"
+  },
+  "preloginInformation": {
+    "definitionUrl": "https://www.kobil.com/download/eco-demo1/prelogininformation.json",
+    "serverCertificateTrustStore": [
+      "trusted_certs_KOBIL_DEV.pem",
+      "trusted_certs_KOBIL.pem",
+      "trusted_certs_CM3P.pem"
+    ],
+    "clientAuthentication": null
+  },
+  "helpUrl": "https://www.kobil.com/",
+  "licencesUrl": "https://www.kobil.com/terms-of-use/",
+  "legalUrl": "https://www.kobil.com/imprint/",
+  "contactUrl": "https://www.kobil.com/contact",
+  "logFileReceiverMailAddress": {
+    "iOS": [
+      "support-eco-client-ios@kobil.com"
+    ],
+    "android": [
+      "support-eco-client-android@kobil.com"
+    ],
+    "windows": [
+      "support-eco-client-windows@kobil.com"
+    ],
+    "macOS": [
+      "support-eco-client-macos@kobil.com"
+    ],
+    "linux": [
+      "support-eco-client-linux@kobil.com"
+    ]
+  },
+  "anonymousActivationChat": {
+    "serviceProvider": {
+      "userId": "anonymousAccountServices",
+      "ecoId": "kobil"
+    },
+    "serviceName": "activation"
+  },
+  "tenants": [
+    {
+      "tenantId": "default",
+      "startScreenAfterLogin": "mChat_Chats",
+      "pinRules": [
+        {
+          "pinRuleRegularExpression": "(^.{6,}$)",
+          "negateRule": false,
+          "errorMessageKey": "ks_ast_001_setpin_pintooshort"
+        },
+        {
+          "pinRuleRegularExpression": "(^.{1,16}$)",
+          "negateRule": false,
+          "errorMessageKey": "ks_ast_001_setpin_pintoolong"
+        },
+        {
+          "pinRuleRegularExpression": "^[0-9]*$",
+          "negateRule": false,
+          "errorMessageKey": "ks_ast_001_setpin_pinnotdigitonly"
+        }
+      ],
+      "passwordRecoveryChat": {
+        "serviceProvider": {
+          "userId": "anonymousAccountServices",
+          "ecoId": "kobil"
+        },
+        "serviceName": "passwordRecovery"
+      }
+    }
+  ],
+  "appInactivityTimeout": 180,
+  "enableMultiTenants": false,
+  "defaultEcoId": "kobil",
+  "openCensus": {
+    "exporterUrl": "https://tse02.dev.kobil.com/telemetry",
+    "serverCertificateTrustStore": [
+      "trusted_certs_openCensusCollector.pem"
+    ],
+    "clientAuthentication": {
+      "mode": "basic",
+      "username": "tse02_user",
+      "password": "tse02_pwd"
+    }
+  },
+  "identityProvider": [
+    {
+      "path": "/some/path/{ecoId}/somemore/path/andmore",
+      "cookieDomain": "{ecoId}.example.com",
+      "audience": "SAMLc"
+    },
+    {
+      "path": "/",
+      "cookieDomain": ".kobil.com",
+      "audience": "SAMLc"
+    }
+  ],
+  "webPortalUrl": "https://ssms-cluster.kobil.com:12444/asm-portaldemo/AppEntry?otp="
+}

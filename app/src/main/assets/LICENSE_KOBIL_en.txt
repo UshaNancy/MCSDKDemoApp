@@ -1,0 +1,163 @@
+EXPLANATIONS CONCERNING THE RANGE OF THE GRANTED RIGHTS OF USE 
+AND THE WARRANTY AND LIABILITY LIMITATIONS
+
+
+IMPORTANT - PLEASE READ CAREFULLY
+
+This declaration concerning the range of the granted rights of use and 
+the warranty and liability limitations represents a contractual agreement 
+between you (i.e. either a natural person or a legal entity) and KOBIL Systems 
+GmbH ("KOBIL") concerning the exploitation of the earlier mentioned products 
+according to their provision including the entity of singular software files, 
+hardware specific files (drivers), storage media and including the attached 
+printed or online documentation ("Software").
+
+BY MEANS OF AN INSTALLATION OF THE SOFTWARE, A MULTIPLICATION OR ANY 
+UTILIZATION IN ANOTHER MANNER YOU WILL FULLY AGREE WITH THE CONDITIONS 
+OF THIS LICENSE AGREEMENT:
+
+As far as you are the original purchaser of the Software and you do not 
+agree to the conditions of the license contract you are entitled to return 
+the unutilized software without any delay versus refund of your license fee 
+to the authorized dealer/distributor. As far as you fully agree with the 
+conditions, KOBIL will grant to you the subsequent provisions which will be 
+explained in more detail concerning the exploitation of the software under 
+usual use and condition.
+
+The entity of commercial patents (trade-mark rights) is due to KOBIL or her 
+suppliers. The software is subject to the protection of copyright and the 
+international copyright agreements. On this basic you are liable to treat 
+the software like any other product being subject to copyright provisions. 
+(e.g. like a book). Moreover, you are however entitled to produce one 
+(1) archival copy of the software for backup or archival purposes or, 
+alternatively, store the software on one (1) single hard disk and to keep 
+the original exclusively for backup or storage purposes.
+
+You are entitled to transfer the right of use permanently to a third person  
+or party. The precondition for this is that you do 
+not retain any copies of the software and the receiver will accept 
+these explanations. Unless otherwise provided and contained in this 
+license agreement, you are not entitled to transfer, sublease or rent, 
+to copy, to treat or to modify any arrangements of the software 
+including remedial actions on the software, storage media or documentation 
+to any other person. You are also not entitled to translate, sublicense, 
+utilize in timeshare mode the software or documentation or transmit or 
+receive it through electronic transmission media. You are made aware 
+of the fact, that the source code of the software represents a commercial secret 
+of KOBIL and/or her suppliers. You are therefore neither entitled to revise the 
+software nor to reverse engineer, decompile or disassemble it. The 
+legal provisions, however, will insofar not be affected by the previous conditions.
+
+As far as you have purchased an "update" of a software this will represent an 
+inseparable entity with the original KOBIL-Software or that to be upgraded. 
+Any exploitation or resale of the upgrade of the software will therefore only be 
+permissible on the basis of the provisions of this license agreement. The 
+granted rights related to the purchase of  the upgrade will in particularsolely entitle 
+you to the exploitation of those software files which will have modifications 
+versus the version of the software which is subject to upgrading. The software 
+provisions are subject to the German Law for Foreign Economics and the German Decree 
+for Foreign Economics. In case of a sale within a  member country of  
+the European Community an exploitation under normal use and conditions in the 
+entire area of the European Union and any of her treaty states of the agreement 
+on the European Economic Community will be permissible. 
+
+The software contains possibly source codes, transferable files and/or other files 
+which have been provided by external suppliers (Third Party Software). Since 
+for the employment of Third Party Software license provisions of the external 
+supplier could become effective you will have to observe the license provisions of 
+the external supplier (where applicable) which are contained in the online-documentation. 
+In any case the license provisions of the external supplier will be valid in supplement 
+however not in place of this license agreement. Above that, KOBIL is reserving any 
+proprietary rights on the source code, the transferable files and any other files. 
+Without respect to any proceedings made by yourself you are not entitled to disseminate 
+files (in particular the source code of KOBIL and other non executable files). 
+Subject to the legal provisions you are entitled to gain knowledge of the source 
+code of the files KOBIL has made at your disposition only in a machine readable form 
+or to multiply, treat, exploit or disseminate the source code.
+
+For any information about eventually applicable license fees or additional 
+license provisions with regard to a further going exploitation and/or a further proliferation 
+of transferable files please address directly to KOBIL.
+
+LIMITED WARRANTY
+
+KOBIL warrants for a period of 6 months after the date of 
+delivery of the software that the software under normal use 
+and conditions will be free of entirely unsignificant differences 
+from the Instructions for Use contained in the documentation, will 
+function and that the delivered software storage media will be free 
+of defects in material and workmanship. KOBIL does not warrant that 
+the operation of the software will meet your requirements or 
+operate free from error.
+
+Should the software or the storage medium proves defective within 
+the warranty period mentioned above, KOBIL will at first have the 
+right to make investigations on the software and the storage medium and 
+to take remedial action by the issue of a new program version of the 
+software or in another way resp. to replace the defective storage medium in 
+its entity or in parts. In case the replacement delivery or remedial actions 
+will not remedy the defect within an adequate period of time, you will 
+be entitled, after setting an adequate (post.-term) deadline at your choice, 
+to cancel the license agreement or to a reasonable reduction of the license fees.
+
+KOBIL is not obliged to warranty if the defect can be derived from an accident 
+which will occur after delivery of the software, as far as the defect could 
+be derived from any exploitation other than the normal conditions of operations and 
+use, or as far as the software has not been properly installed on a 
+computer for which a license was granted hereunder. With the claim of warranty 
+rights you will be obliged to prove the data of purchase of the software by 
+means of a copy of the invoice.
+
+LIMITATION OF LIABILITY
+
+KOBIL will only be liable for defects which will be caused by KOBIL or her, 
+accomplices either in a gross negligent or wilful way. Moreover KOBIL will 
+also be liable for such defects which have been caused by KOBIL or her accomplices 
+within the fullfilment of a significant contractual duty in a negligent manner. 
+In case of liability in spite of a neither wilful nor gross negligent deviation 
+from significant contractual duties, the liability will be limited to the amount 
+which can be reduced to a typically predictable damage.
+
+These limitations of liability will apply for any liability, no matter which juristic 
+reason, in particular also for a liability caused by the negligence of pre-contractual 
+or minor contractual obligations. Excluded from this are, however, any liabilities 
+with regard to the Product Liability Law as well as a liability for assured 
+properties, as far as the assurance was designated to protect you as a 
+customer just from the occurred damage.
+
+You are obliged in the general terms of obligation to lesson damages to take care 
+of adequate security provisions for the protection of your data and other software
+ and to produce backup copies in such adequate timely distances as are deemed necessary
+ in your area of operations as usual with respect to the carefulness of a professional 
+user of electronic data processing.
+
+ACTIVITIES RELATED TO HIGH RISKS
+
+The software is not tolerant to failure and has not been developed or produced 
+to function as online-control device in dangerous environments or for the 
+purpose of resale for such operations which do require operations free of 
+interference, as e.g. for the operation in nuclear equipments, flight 
+control systems, communication systems, air traffic control systems, 
+direct life-supporting devices or weapon systems, with which the malfunction 
+of the software could cause death, personal harms or serious physical injures 
+("High Risk Activities"). KOBIL and her suppliers explicitely  deny any 
+explicite or indirect warranty for the ability in case of High Risk Activities.
+
+CONCLUSIVE PROVISIONS
+
+Any amendments to this agreement are subject to written form and have 
+to be signed by you and a representative of KOBIL. As far as parts of 
+this agreement are ineffective or cannot be agreed on or become so, the 
+effectiveness or accomplishment of the remaining provisions of this
+ licence agreement will not be effected by these facts. The parties 
+are obliged in this case to agree instead of the provision proves
+ ineffective upon an effective provision which will be meeting the 
+economical purpose of this license agreement in the most adequate way.
+This license agreement is subject to the Legislation of the Federal
+ Republic of Germany under exclusion of the UN-Purchase Rights.
+The court of jurisdiction for all kinds of legal arguments which 
+result directly from this agreement or in correspondence with this
+ agreement will be - as far as you are a merchant in the legal 
+sense - the site of KOBIL. KOBIL in this case will also be entitled 
+to take legal action at any other legal court of jurisdiction.
+

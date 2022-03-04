@@ -1,0 +1,8 @@
+{
+    "ecoId": "kobil",
+    "ecoTrustedSSLServerCerts": "scp_trusted_certs.pem",
+    "ecoTokenIssuerServiceUrl": "https://tse02.labnet.kobil.com/token-issuer",
+    "ecoMessageRouterUrl": "https://tse02.labnet.kobil.com/router",
+    "ecoAddressBookServiceUrl": "https://tse02.labnet.kobil.com/addressbook",
+    "ecoPresenceServiceUrl": "https://tse02.labnet.kobil.com/presence"
+}
